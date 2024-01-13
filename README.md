@@ -1,6 +1,6 @@
-# Java Concurrency And Multithreading
-
-## 1. Introduction
+# <span style="color: #FAB5733">Java Concurrency And Multithreading</span>
+***
+## <span style="color: #FF5733">1. Introduction</span>
 
 ### Multitasking
 
@@ -30,29 +30,29 @@ The main important applications of multithreading are:
 
 When compared with older languages, developing multithreaded applications in Java is very easy because Java provides inbuilt support for multithreading with a rich API, including the Thread class, Runnable interface, and ThreadGroup class.
 
-## 2. Two ways to define the Thread.
+## <span style="color: #FF5733">2. Two ways to define the Thread.</span>
 
 - By extending Thread class.
 - By implementing Runnable Interface.
 
-## 3. Getting and Setting the name of Threads.
+## <span style="color: #FF5733">3. Getting and Setting the name of Threads.</span>
 
-## 4. Thread Partition.
+## <span style="color: #FF5733">4. Thread Partition.</span>
 
-## 5. Methods to Prevent Thread Execution.
+## <span style="color: #FF5733">5. Methods to Prevent Thread Execution.</span>
 
 - yield()
 - join()
 - sleep()
 
-## 6. Synchronization
+## <span style="color: #FF5733">6. Synchronization</span>
 
-## 7. Inter Thread Communication
+## <span style="color: #FF5733">7. Inter Thread Communication</span>
 
-## 8. DeadLock
+## <span style="color: #FF5733">8. DeadLock</span>
 
-## 9. Daemon Thread
+## <span style="color: #FF5733">9. Daemon Thread</span>
 
-## 10. Multithreading Enhancement
+## <span style="color: #FF5733">10. Multithreading Enhancement</span>
 
-Thread group, Thread Local, Executor Framework
+<span style="color: #33FF4E">Thread group, Thread Local, Executor Framework</span>
